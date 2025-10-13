@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Krishan Malinda</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Krishan Chandrasinghe</h1>
+<h3 align="center">A Passionate Full Stack Web Developerr</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishan-malinda" alt="krishan-malinda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishan-Chandrasinghe" alt="Krishan-Chandrasinghe" /></a> </p>
 <img align="right" alt="Coding" width="280" src="coder.gif">
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **AI integration and Automation with n8n**
 
 - 📫 How to reach me **krishanmalinda99@gmail.com**
 

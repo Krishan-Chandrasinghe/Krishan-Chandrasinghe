@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishan Chandrasinghe</h1>
-<h3 align="center">A Passionate Full Stack Web Developerr</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishan-Chandrasinghe" alt="Krishan-Chandrasinghe" /></a> </p>
 <img align="right" alt="Coding" width="280" src="coder.gif">

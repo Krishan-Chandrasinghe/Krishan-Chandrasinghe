@@ -44,13 +44,13 @@
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"/></td>
-    <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="tailwindcss"/></td>
+    <td style="border: none; padding: 5px;"><img src="./tailwindcss.svg" width="40" height="40" alt="tailwindcss"/></td>
   </tr>
   <!-- Row 3: Frameworks, Tools & Design -->
   <tr style="border: none;">
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="redux"/></td>
-    <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40" alt="laravel"/></td>
+    <td style="border: none; padding: 5px;"><img src="./laravel.svg" width="40" height="40" alt="laravel"/></td>
     <td style="border: none; padding: 5px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></td>
     <td style="border: none; padding: 5px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></td>
     <td style="border: none; padding: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/></td>
